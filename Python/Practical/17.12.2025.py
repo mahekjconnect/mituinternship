@@ -70,10 +70,10 @@ list.append(29)
 list.insert(3,567)
 list.remove(5)
 list[1]=96
-len(list)
+print(len(list))
+print(list)
 
-for x in list:
-    print(x)
+
 print("---------------------")
 
 #Tuple
